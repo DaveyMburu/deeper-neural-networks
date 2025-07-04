@@ -2,6 +2,8 @@
 
 ## Introduction
 
+### Check the index.ipynb file for my working
+
 In this lesson, we'll dig deeper into the work horse of deep learning, **_Multi-Layer Perceptrons_**! We'll build and train a couple of different MLPs with Keras and explore the tradeoffs that come with adding extra hidden layers. We'll also try switching between some of the activation functions we learned about in the previous lesson to see how they affect training and performance. 
 
 
